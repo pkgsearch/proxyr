@@ -25,10 +25,10 @@ echo ""
 
 
 
-echo "===== LETS START INSTALLING SOME ESSENTIAL STUFFS ====="
+echo "===== Надо установить необходимую хрень ====="
 
-echo "====== PROXY-FINDER SETUP ======"
- echo -e " $RESET******  SABRI ZAKI ******"                           
+echo "====== PROXYR ======"
+ echo -e " $RESET******  PKGSEARCH ******"                           
 
 
 sleep 2
