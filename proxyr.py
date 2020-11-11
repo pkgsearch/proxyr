@@ -9,7 +9,7 @@ Red="\033[1;31m"
 Purple="\033[0;35m"
 
 
-print " "+Green+"proxyr"
+
 print " "+Green+" Найди охренительные прокси  "
 print " "+Green+"Говнокодер: https://github.com/pkgsearch/   "
 print " "+Green+"ТГ: https://t.me/pkgsearch   "
