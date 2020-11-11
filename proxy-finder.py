@@ -9,14 +9,14 @@ Red="\033[1;31m"
 Purple="\033[0;35m"
 
 
-print " "+Green+"   ############################"
-print " "+Green+"   PROXY FINDER FOR 1001_ACCOUNT"
-print " "+Green+"   ############################"
-print " "+Green+"   [+]: Developer: SABRI ZAKI :[+]"
-print " "+Green+"   ############################"
+print " "+Green+"proxyr"
+print " "+Green+" Найди охренительные прокси  "
+print " "+Green+"Говнокодер: https://github.com/pkgsearch/   "
+print " "+Green+"ТГ: https://t.me/pkgsearch   "
+
 print ""
 print " "+Grey+" █║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║█"
-print "       "+Green+" 1001_ACCOUNT WAS HEAR"
+print "       "+Green+"Дохрена прокси :3"
 print "           "+Blue+"" 
 
 import time
@@ -68,7 +68,6 @@ for row in sosBlackhats.find_all('tr'):
     except:
         pass
 
-print" "+Grey+" JUST RUN ME ANYTIME, I WILL REFRESH PROXY LIST < join US on #1001_ACOOUNT GROUP= facebook >" 
 
     
 
