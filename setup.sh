@@ -36,7 +36,7 @@ sleep 2
 
 
 
-echo -e " $purple >>Do you want to Continue: (Y) \c"
+echo -e " $purple >>Надо прокси? Пиши: (Y) \c"
 
 read Y
 
@@ -49,10 +49,10 @@ then
 	pip2 install requests
 	pip2 install bs4
         cd 
-        chmod +x PROXY_FINDER/*
+        chmod +x proxyr/*
 sleep 6
 	
-echo -e "$RESET YOUR READY TO GO, FIRE UP A TOOL "
+echo -e "$СБРОСЬТЕ СВОЮ ГОТОВНОСТЬ К РАБОТЕ, ЗАПУСТИТЕ ИНСТРУМЕНТ: python proxyr.py "
 
 else
 
