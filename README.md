@@ -1,31 +1,23 @@
-# Most-powerful proxy feeder
-This is a simple tool that will help you to find active (anonymous,elite,Transparent ect) proxies that will help you in different stuffs.
-
-## ⭕️ Features
-
-1. easy to use
-2. auto refresh in every 2 minutes
-3. it gives you all active proxies with full information
-
-just lets make life easier, take a beer and relax
+#Самый крутой поисковик прокси.
+Автоматом найдёт тебе крутые прокси
 
 
-## ⭕️ Getting Started
-git clone https://github.com/sabri-zaki/PROXY_FINDER
+## Установка 📲
+git clone https://github.com/pkgsearch/proxyr
 
-cd proxy-feeder
+cd proxyr
 
 chmod +x *
 
 ./setup.sh
 
-wait for installation to finish
+Жди когда установиться. Когда надо пиши Y .
 
-## ⭕️ Fire up a tool
+## Запускам 🚀
 
-python proxy-feeder.py
+python proxyr.py
 
-ENJOY.
+Наслаждаемся проксями
 
 
 
