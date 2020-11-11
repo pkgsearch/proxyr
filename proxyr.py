@@ -30,7 +30,7 @@ def animate():
     for c in itertools.cycle(['|', '/', '-', '\\']):
         if done:
             break
-        sys.stdout.write('\rWAIT A MOMENT I WILL DO IT QUICKLY ' + c)
+        sys.stdout.write('\Жди блин прокси :3' + c)
         sys.stdout.flush()
         time.sleep(0.1)
     sys.stdout.write('')
