@@ -10,14 +10,12 @@ Purple="\033[0;35m"
 
 
 
-print " "+Green+" Найди охренительные прокси  "
-print " "+Green+"Говнокодер: https://github.com/pkgsearch/   "
-print " "+Green+"ТГ: https://t.me/pkgsearch   "
-
-print ""
-print " "+Grey+" █║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║█"
-print "       "+Green+"Дохрена прокси :3"
-print "           "+Blue+"" 
+print (" "+Green+" Найди охренительные прокси")
+print (" "+Green+"Говнокодер: https://github.com/pkgsearch/")
+print (" "+Green+"ТГ: https://t.me/pkgsearch")
+print (" "+Grey+" █║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║█")
+print ("       "+Green+"Дохрена прокси :3")
+print ("           "+Blue+"")
 
 import time
 import itertools
